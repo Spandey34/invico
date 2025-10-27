@@ -50,10 +50,15 @@ pnpm install
 Create a file named .env.local in the root of your project and add the following environment variables. You will need to get these keys from their respective services (Clerk, Convex, and Stream).
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
 CLERK_SECRET_KEY=
+
 CONVEX_DEPLOYMENT=
+
 NEXT_PUBLIC_CONVEX_URL=
+
 NEXT_PUBLIC_STREAM_API_KEY=
+
 STREAM_SECRET_KEY=
 
 
